@@ -55,7 +55,7 @@ public class chCommandSubmoduleCopy extends chCommandSubmoduleBase {
 
 	@Override
 	public void printSubmoduleHelp(CommandSender sender) {
-		sender.sendMessage("Copy the settings from a nother player.");
+		sender.sendMessage("Copy the settings from another player.");
 		sender.sendMessage("Does not copy alias and buddy list.");
 		sender.sendMessage("Usage: /chath copy <name>");
 
