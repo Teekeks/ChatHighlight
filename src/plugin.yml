@@ -1,0 +1,11 @@
+name: ChatHighlight
+main: de.teawork.chatHighlight.ChatHighlight
+version: 1.6
+api-version: 1.14
+description: Highlights your name when you are noted in Chat.
+author: Teekeks
+softdepend: [Zw2Afk, CommandBook, DiscordSRV]
+commands:
+    chath:
+        description: Personalize ChatHighlight for yourself! "/chath ?" for more help.
+        usage: /<command> ? for Help
